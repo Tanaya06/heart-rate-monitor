@@ -5,7 +5,7 @@
 #define blinkPin 2    //Led On Chip
 
 ////////////////
-//LOOP VARIABLES
+///LOOP VARIABLES
 ////////////////
 volatile int BPM;                   // int that holds raw Analog in 0. updated every 2mS
 volatile int Signal;                // holds the incoming raw data
